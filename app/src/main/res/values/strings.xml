@@ -1,0 +1,33 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Apenas Java</string>
+
+    <string name="name">Nome</string>
+
+    <string name="toppings">Coberturas</string>
+
+    <string name="whipped_cream">Chantily</string>
+
+    <string name="chocolate">Chocolate</string>
+
+    <string name="quantity">Quantidade</string>
+
+    <string name="initial_quantity_value">1</string>
+
+    <string name="order">Pedir</string>
+
+    <string name="order_summary_name" translatable="false">Nome: <xliff:g id="name" example="Amy">%s</xliff:g> </string>
+
+    <string name="order_summary_whipped_cream">Adcionou Chantily? <xliff:g id="addWhippedCream" example="true">%b</xliff:g> </string>
+
+    <string name="order_summary_chocolate">Adcionou Chocolate? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+
+    <string name="order_summary_quantity">Quantidade: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+
+    <string name="order_summary_price">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+
+    <string name="thank_you">Obrigado!</string>
+
+    <string name="order_summary_email_subject">Resumo do Pedido</string>
+
+
+</resources>
